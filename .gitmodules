@@ -1,3 +1,6 @@
 [submodule "DropoutUncertaintyCaffeModels"]
 	path = DropoutUncertaintyCaffeModels
 	url = https://github.com/yaringal/DropoutUncertaintyCaffeModels
+[submodule "DropoutUncertaintyExps"]
+	path = DropoutUncertaintyExps
+	url = https://github.com/yaringal/DropoutUncertaintyExps
